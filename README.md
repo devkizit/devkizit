@@ -1,7 +1,7 @@
 # Hi There! 
 
 
-#🗣🚀HELLO WORLD!!
+🗣🚀HELLO WORLD!!
 
 😎 I’m looking to help with websites and applications...
 

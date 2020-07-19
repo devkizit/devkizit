@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python,JavaScript and Golang**
 
-- 👯 I’m looking to collaborate on **Websites and applications **
+- 👯 I’m looking to collaborate on Websites and applications
 
 - 💬 Ask me about **Python/JavaScript**
 

@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Python,JavaScript,Css,Html5,Data Structures and Algorithms,UI/UX DESIGN.**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

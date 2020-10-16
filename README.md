@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kizito Adaka</h1>
 <h3 align="center">A passionate developer/designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkizit" alt="devkizit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkizit" alt="devkizit"/> </p>
 
 - 🔭 I’m currently working on **Python/JavaScript**
 

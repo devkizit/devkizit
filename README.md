@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Websites and applications**
 
-- 💬 Ask me about **Python,JavaScript,Css,Html5,Data Structures and Algorithms,UI/UX DESIGN.**
+- 💬 Ask me about **Python,JavaScript,Css,Html5,Data Structures and Algorithms**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

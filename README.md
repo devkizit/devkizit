@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kizito Daka</h1>
-<h3 align="center">A passionate developer/designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkizit" alt="devkizit"/> </p>
 
